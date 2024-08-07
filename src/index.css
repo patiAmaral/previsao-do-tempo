@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+    font-family: "Gupter", serif;
+    background: linear-gradient(to right, #5f9ea0, #4682b4, #87cefa);
+    color: #333;
+    line-height: 2;
+    
+ }
