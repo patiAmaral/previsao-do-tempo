@@ -20,3 +20,15 @@ Seja para planejar uma viagem, escolher a roupa certa ou apenas acompanhar o cli
 🔗 Como usar?
 
 Digite o nome da cidade ou localização desejada e obtenha a previsão do tempo em segundos. Simples e rápido! ⏱️🌎
+
+# Aqui está imagens do meu projeto:
+
+![Exemplo de Imagem](images/bsb.png)
+
+![Exemplo de Imagem](images/ny.png)
+
+![Exemplo de Imagem](images/sp.png)
+
+![Exemplo de Imagem](images/seul.png)
+
+
