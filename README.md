@@ -1,8 +1,22 @@
 # React + Vite
+🌦️ Previsão do Tempo Interativa 🌦️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 O que é?
 
-Currently, two official plugins are available:
+Um aplicativo web desenvolvido com React, JavaScript, HTML5 e CSS3 que oferece previsões do tempo detalhadas! Com uma interface moderna e intuitiva, você pode conferir a previsão do tempo atual e também obter uma visão geral das condições meteorológicas para os próximos 5 dias. ☀️🌧️🌤️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧩 Funcionalidades:
+
+Previsão Atual: Veja o clima exato no momento da pesquisa, com informações sobre temperatura, umidade e condições gerais. 🌡️💧
+
+Previsão para 5 Dias: Planeje com antecedência com uma visão detalhada do tempo nos próximos dias. 🌈📅
+
+Interface Amigável: Design limpo e responsivo que se adapta a diferentes dispositivos. 📱💻
+
+🎯 Por que usar?
+
+Seja para planejar uma viagem, escolher a roupa certa ou apenas acompanhar o clima, este aplicativo oferece uma experiência precisa e prática. Experimente e nunca mais seja pego de surpresa pelo tempo! 🌍✨
+
+🔗 Como usar?
+
+Digite o nome da cidade ou localização desejada e obtenha a previsão do tempo em segundos. Simples e rápido! ⏱️🌎
